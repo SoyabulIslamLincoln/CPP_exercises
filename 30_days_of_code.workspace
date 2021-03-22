@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="data_types_1/data_types_1.cbp" />
+		<Project filename="operators/operators.cbp" />
+		<Project filename="conditions/conditions.cbp" />
+		<Project filename="class_vs_instance/class_vs_instance.cbp" />
+		<Project filename="multiplication_table/multiplication_table.cbp" />
+		<Project filename="string_even_odd/string_even_odd.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
